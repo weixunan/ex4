@@ -12,7 +12,7 @@
 using namespace std;
 int main()
 {
-	string s="2021152027韦旭南";
+	string s="2021152027韦旭南，是计算机与软件学院的一名学生";
     PrintName p(s);
 	p.printFun();
 	system("pause");
